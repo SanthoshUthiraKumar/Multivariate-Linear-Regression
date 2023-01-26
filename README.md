@@ -8,7 +8,7 @@ To write a python program to implement multivariate linear regression and predic
 
 ## Algorithm:
 ### Step 1:
-Import the libraray pandas using inport command.
+Import the libraray pandas using import command.
 
 ### Step 2:
 From sklearn import another library linear_model.
@@ -27,7 +27,7 @@ Run the program and predict the output
 
 ## Program:
 ```
-Program to implement multivariate Linear Regression to fit a straight line using least squares.
+Program to implement multivariate Linear Regression 
 Developed by: Santhosh U
 RegisterNumber: 22009224
 import pandas as pd
